@@ -38,7 +38,7 @@ function LandingPage() {
           );
         })}
       </div>
-      <div className="border-t-[1px] border-zinc-800 mt-32 flex justify-between items-center py-5 px-10">
+      <div className="border-t-[1px} border-zinc-800 mt-32 flex justify-between items-center py-5 px-10">
         {[
           "For public and private companies",
           "From the first pitch to IPO",

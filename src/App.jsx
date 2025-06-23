@@ -6,6 +6,7 @@ import About from "./components/About";
 import Eyes from "./components/Eyes";
 import Featured from "./components/Featured";
 import Cards from "./components/Cards";
+import FinalEyes from "./components/FinalEyes";
 import Footer from "./components/Footer";
 import LocomotiveScroll from "locomotive-scroll";
 
@@ -21,6 +22,7 @@ function App() {
       <Eyes />
       <Featured />
       <Cards />
+      <FinalEyes />
       <Footer />
     </div>
   );
